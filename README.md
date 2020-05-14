@@ -1,2 +1,3 @@
 # trending-stocks
- Predictive models
+ Predictive analisys of actions. 
+ 
