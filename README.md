@@ -12,5 +12,5 @@ The company that I’ve chosen is: Amazon (USA). The data has been collected fro
 The documents are:
 - [Amazon2018_19.csv(data training)](https://github.com/nazaretserrano/trending-stocks/blob/master/Amazon2018_19.csv)
 - [Amazontesting_20.csv (data testing)](https://github.com/nazaretserrano/trending-stocks/blob/master/amazontesting_20.csv) 
-- [Report Amazon v0.0.pdf (project report)](https://github.com/nazaretserrano/trending-stocks/Report%20Amazon%20v%200.0.pdf)
+- [Report Amazon v0.0.pdf (project report)](https://github.com/nazaretserrano/trending-stocks/blob/master/amazontesting_20.csv)
 - [Copia_de_amazon_v0.0.ipynb (jupyter notebook, google colaboratory)](https://github.com/nazaretserrano/trending-stocks/blob/master/Copia_de_amazon_v0_0.ipynb) 
