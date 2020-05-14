@@ -1,5 +1,5 @@
 # trending-stocks
-![Image](https://github.com/nazaretserrano/trending-stocks/blob/master/tending.png)
+![Image](https://www.freepik.es/fotos/ciudad)
 
 ### Predictive analysis of daily increases or decreases in share prices of AMAZON.
 
