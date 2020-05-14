@@ -13,4 +13,4 @@ The documents are:
 - Report Amazon v0.0.pdf (project report),
 - Copia_de_amazon_v0.0.ipynb (jupyter notebook, google colaboratory).
 
- [trending-stocks]:https://github.com/nazaretserrano/trending-stocks  
+ [trending-stocks](https://github.com/nazaretserrano/trending-stocks)
