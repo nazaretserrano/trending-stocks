@@ -20,7 +20,9 @@ The documents are:
 - [Report Amazon v0.0.pdf (project report)](https://github.com/nazaretserrano/trending-stocks/blob/master/amazontesting_20.csv)
 - [Copia_de_amazon_v0.0.ipynb (jupyter notebook, google colaboratory)](https://github.com/nazaretserrano/trending-stocks/blob/master/Copia_de_amazon_v0_0.ipynb) 
 
-
+nazaretserrano/trending-stocks is licensed under the
+GNU General Public License v3.0
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 **Attribution**
 <a href="https://www.freepik.es/fotos/ciudad">Foto de Ciudad creado por jcomp - www.freepik.es</a>
