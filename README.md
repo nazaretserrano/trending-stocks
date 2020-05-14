@@ -22,7 +22,7 @@ The **documents** are:
 
 
 This project is licensed under the terms of the license **GNU GENERAL PUBLIC LICENSE
-                       Version 3**, 29 June 2007
+                       Version 3**, 14 May 2020.
 
  Copyright (C) 2020 Nazaret Serrano Romero
  Everyone is permitted to copy and distribute verbatim copies
