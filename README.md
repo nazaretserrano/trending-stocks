@@ -14,4 +14,4 @@ The documents are:
 - Copia_de_amazon_v0.0.ipynb (jupyter notebook, google colaboratory).
 
 [trending-stocks](https://github.com/nazaretserrano/trending-stocks)
-[](https://github.com/nazaretserrano/trending-stocks/blob/master/tending.png)
+[Immage](https://github.com/nazaretserrano/trending-stocks/blob/master/tending.png)
