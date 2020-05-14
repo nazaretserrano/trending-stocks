@@ -18,7 +18,7 @@ The **documents** are:
 - [Amazon2018_19.csv(data training)](https://github.com/nazaretserrano/trending-stocks/blob/master/Amazon2018_19.csv)
 - [Amazontesting_20.csv (data testing)](https://github.com/nazaretserrano/trending-stocks/blob/master/amazontesting_20.csv) 
 - [Report Amazon v1.0.pdf (project report)](https://github.com/nazaretserrano/trending-stocks/blob/master/Report%20Amazon%20v%201.0.pdf)
-- [Copia_de_amazon_v0.0.ipynb (jupyter notebook, google colaboratory)](https://github.com/nazaretserrano/trending-stocks/blob/master/Copia_de_amazon_v0_0.ipynb) 
+- [Copia_de_amazon_v1.0.ipynb (jupyter notebook, google colaboratory)](https://github.com/nazaretserrano/trending-stocks/blob/master/amazon_v1_0.ipynb) 
 
 
 This project is licensed under the terms of the license **GNU GENERAL PUBLIC LICENSE
