@@ -1,4 +1,4 @@
-# trending-stocks
+### Trending Stocks 
 ![Image](https://github.com/nazaretserrano/trending-stocks/blob/master/17752.jpg)
 
 #### Predictive analysis of daily increases or decreases in share prices of AMAZON
