@@ -24,9 +24,8 @@ The **documents** are:
 This project is licensed under the terms of the license **GNU GENERAL PUBLIC LICENSE
                        Version 3**, 14 May 2020.
 
- Copyright (C) 2020 Nazaret
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ Copyright (C) 2020 Nazaret Serrano Romero
+ 
 
 [LICENSE]( https://github.com/nazaretserrano/trending-stocks/blob/master/LICENSE )
 
