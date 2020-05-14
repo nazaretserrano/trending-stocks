@@ -23,7 +23,7 @@ The documents are:
 
 This project is licensed under the terms of the license GNU
 
-[LICENSE](  )
+[LICENSE]( https://github.com/nazaretserrano/trending-stocks/blob/master/LICENSE )
 
 
 
