@@ -1,2 +1,2 @@
-# Trending-stocks
+# trending-stocks
  Predictive models
