@@ -14,6 +14,3 @@ The documents are:
 - [Amazontesting_20.csv (data testing)](https://github.com/nazaretserrano/trending-stocks/Amazontesting_20.csv) 
 - [Report Amazon v0.0.pdf (project report)](https://github.com/nazaretserrano/trending-stocks/Report Amazon v0.0.pdf) 
 - [Copia_de_amazon_v0.0.ipynb (jupyter notebook, google colaboratory)](https://github.com/nazaretserrano/trending-stocks/Copia_de_amazon_v0.0.ipynb) 
-
-
-
