@@ -14,3 +14,6 @@ The documents are:
 - [Amazontesting_20.csv (data testing)](https://github.com/nazaretserrano/trending-stocks/blob/master/amazontesting_20.csv) 
 - [Report Amazon v0.0.pdf (project report)](https://github.com/nazaretserrano/trending-stocks/blob/master/amazontesting_20.csv)
 - [Copia_de_amazon_v0.0.ipynb (jupyter notebook, google colaboratory)](https://github.com/nazaretserrano/trending-stocks/blob/master/Copia_de_amazon_v0_0.ipynb) 
+
+
+<a href="https://www.freepik.es/fotos/ciudad">Foto de Ciudad creado por jcomp - www.freepik.es</a>
