@@ -1,4 +1,5 @@
 # trending-stocks
+![Image](https://github.com/nazaretserrano/trending-stocks/blob/master/tending.png)
 **Predictive analysis of daily increases or decreases in share prices.**
 
 The objective of this project is to find correlations between valuations of a company and the stock market valuation of its shares. I want to test this hypothesis: "When the popularity of a company increase or decrease  the value of its shares changes”.
@@ -14,4 +15,4 @@ The documents are:
 - Copia_de_amazon_v0.0.ipynb (jupyter notebook, google colaboratory).
 
 [trending-stocks](https://github.com/nazaretserrano/trending-stocks)
-[Immage](https://github.com/nazaretserrano/trending-stocks/blob/master/tending.png)
+
